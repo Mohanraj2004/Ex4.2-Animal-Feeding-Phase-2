@@ -42,8 +42,8 @@ For all the animal prefabs and food in th inspector (below the layer ) drop down
 
 ## Program:
 ```
- Developed by: DODDA JAYASRI
- Reg no: 212222240028
+ Developed by: MOHANRAJ S
+ Reg no: 2122221230065
 ```
 ## Spawm Manager:
 ```c#
